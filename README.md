@@ -1,2 +1,4 @@
-# HTML-CSS-JS-Publishing
-인프런 강좌 [HTML+CSS+JS 포트폴리오 실전 퍼블리싱(시즌1)] 공부 내용 정리
+# HTML-CSS-JS-Publishing_study
++ GDSC에서 <HTML+CSS+JS 실전 퍼블리싱 스터디>를 하는 내용을 정리합니다.
++ 인프런 강좌 [HTML+CSS+JS 포트폴리오 실전 퍼블리싱(시즌1)]를 보고 매주 정리하는 스터디입니다.
++ 강의를 통해 **새롭게 알게 된 개념과 활용방법** 위주로 정리합니다. 
